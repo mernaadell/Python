@@ -1,0 +1,8 @@
+Median age at First Marriage, 1890-2010
+Source: U.S. Bureau of the Census, www.census.gov
+Year     Men      Women
+1890     26.1     22.0
+1900     25.9     21.9
+1910     25.1     21.6
+1920     24.6     21.2
+1930     24.3     21.3
